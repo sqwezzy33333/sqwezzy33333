@@ -3,7 +3,7 @@
 <h3 align="center">I am a Frontend developer from Minsk, Belarus</h3>
 
 ### Skills:
-![Angular](https://img.shields.io/badge/React-090909?style=for-the-badge&logo=Angular)
+![Angular](https://img.shields.io/badge/Angular-090909?style=for-the-badge&logo=Angular)
 ![Typescript](https://img.shields.io/badge/Typescript-090909?style=for-the-badge&logo=Typescript)
 ![Javascript](https://img.shields.io/badge/Javascript-090909?style=for-the-badge&logo=Javascript)
 ![Sass](https://img.shields.io/badge/Sass-090909?style=for-the-badge&logo=sass)
