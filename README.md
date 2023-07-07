@@ -1,6 +1,7 @@
 <h1 align="center">Hi there, I'm <a href="https://www.instagram.com/_sqwezzy/" target="_blank">Sergey</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">I am a Frontend developer from Minsk, Belarus</h3>
+<div align="center"><a href="https://sergei-kornev.netlify.app/">https://sergei-kornev.netlify.app/</a></div>
 
 ### Skills:
 ![Angular](https://img.shields.io/badge/Angular-090909?style=for-the-badge&logo=Angular)
