@@ -3,6 +3,9 @@
 <h3 align="center">I am a Angular developer from Minsk, Belarus</h3>
 <div align="center"><a href="https://sergei-kornev.netlify.app/">https://sergei-kornev.netlify.app/</a></div>
 
+---
+<img src="https://www.codewars.com/users/sqwezzy33333/badges/micro"/>
+
 ### Skills:
 ![Angular](https://img.shields.io/badge/Angular-090909?style=for-the-badge&logo=Angular)
 ![Typescript](https://img.shields.io/badge/Typescript-090909?style=for-the-badge&logo=Typescript)
